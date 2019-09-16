@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace LoginUMB
+﻿namespace LoginUMB
 {
     class Fact
     {
